@@ -13,8 +13,7 @@ Run npm i to install project's packages.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Run npm start. The project will be opened on the [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### The page can also be called with the URL
 https://harry8118.github.io/tMovies-react_app/
